@@ -15,9 +15,8 @@ Predicting the Remaining Useful Life (RUL) of jet engines using an LSTM neural n
 
 
 | Model | RMSE (cycles) | MAE (cycles) | R² | NASA Score |
-
 |---|---|---|---|---|
-| \*\*LSTM (ours)\*\* | \*\*14.20\*\* | \*\*10.63\*\* | \*\*0.8744\*\* | \*\*376.59\*\* |
+| **LSTM** | **14.20** | **10.63** | **0.8744** | **376.59** |
 | Random Forest | 17.44 | 12.33 | 0.8105 | 1085.04 |
 | Linear Regression | 20.66 | 16.42 | 0.7342 | 1077.23 |
 | Mean Baseline | 40.42 | 35.17 | -0.0175 | 16915.99 |
